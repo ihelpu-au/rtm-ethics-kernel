@@ -1,3 +1,5 @@
+> **Historical AI-assisted experiment — not a verified product.** This repository records an earlier exploration directed by the iHelpYou project owner through conversations with AI systems. AI assisted with producing the materials and/or implementation. The original claims and materials below are retained as historical artefacts, not independently validated results. No current security, correctness or production-readiness guarantee is implied.
+
 # RTM Ethics Kernel
 
 A deterministic, auditable decision kernel that applies property-based proofs to validate ethical invariants.
